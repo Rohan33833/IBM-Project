@@ -1,3 +1,14 @@
-._pycache_
-.bob
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Bob workspace files
+.bob/
+
+# Large data file — not pushed to GitHub
+WHO-COVID-19-global-data.csv
 
